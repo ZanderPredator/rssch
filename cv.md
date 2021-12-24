@@ -26,3 +26,12 @@ Positions where I worked:
   
 ___The reason why I'm here is to try to change my life___
 ___
+
+
+### Skills and Proficiency :
+
+* HTML5, CCS3
+* GitHub
+* Visual Studio Code 
+
+___
