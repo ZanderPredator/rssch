@@ -35,3 +35,21 @@ ___
 * Visual Studio Code 
 
 ___
+
+
+## Code example
+
+`let arr =[2,4,1,0,11,24];`
+`for (let item of arr){`
+`    if (!(item %== 2){`
+`        console.log(item);`
+`    });`
+`};`
+
+___
+
+## Courses :
+
+RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+___ 
